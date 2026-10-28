@@ -139,7 +139,21 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BaseBankCard.cpp" />
+    <ClCompile Include="BasePasskey.cpp" />
+    <ClCompile Include="BasePlasticCard.cpp" />
+    <ClCompile Include="CardCredit.cpp" />
+    <ClCompile Include="CardGenerator.cpp" />
     <ClCompile Include="cardholder.cpp" />
+    <ClCompile Include="Ticket.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseBankCard.h" />
+    <ClInclude Include="BasePasskey.h" />
+    <ClInclude Include="BasePlasticCard.h" />
+    <ClInclude Include="CardCredit.h" />
+    <ClInclude Include="CardGenerator.h" />
+    <ClInclude Include="Ticket.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

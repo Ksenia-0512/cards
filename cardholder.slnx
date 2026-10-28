@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="cardholder/cardholder.vcxproj" />
+  <Project Path="cardholder/cardholder.vcxproj" Id="2e7fe9ca-d137-4a06-92dc-b2eedc26afea" />
 </Solution>
