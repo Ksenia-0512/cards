@@ -36,6 +36,9 @@
     <ClCompile Include="CardCredit.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="AccesKey.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BasePasskey.h">
@@ -54,6 +57,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="BasePlasticCard.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="AccesKey.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
