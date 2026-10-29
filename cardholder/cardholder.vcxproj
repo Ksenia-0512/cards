@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AccesKey.cpp" />
     <ClCompile Include="BaseBankCard.cpp" />
     <ClCompile Include="BasePasskey.cpp" />
     <ClCompile Include="BasePlasticCard.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="Ticket.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AccesKey.h" />
     <ClInclude Include="BaseBankCard.h" />
     <ClInclude Include="BasePasskey.h" />
     <ClInclude Include="BasePlasticCard.h" />
