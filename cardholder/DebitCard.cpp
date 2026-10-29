@@ -2,7 +2,8 @@
 #include "DebitCard.h"
 #include <iostream>
 
-DebitCard::DebitCard(std::string name) : BaseBankingCard(name) {
+DebitCard::DebitCard(std::string name) : BaseBankingCard(name)
+{
     deposit = 10000.0f; // Начальный депозит по ТЗ
 }
 
