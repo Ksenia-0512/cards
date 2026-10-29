@@ -146,6 +146,7 @@
     <ClCompile Include="CardCredit.cpp" />
     <ClCompile Include="CardGenerator.cpp" />
     <ClCompile Include="cardholder.cpp" />
+    <ClCompile Include="DebitCard.cpp" />
     <ClCompile Include="Ticket.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -155,6 +156,7 @@
     <ClInclude Include="BasePlasticCard.h" />
     <ClInclude Include="CardCredit.h" />
     <ClInclude Include="CardGenerator.h" />
+    <ClInclude Include="DebitCard.h" />
     <ClInclude Include="Ticket.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
